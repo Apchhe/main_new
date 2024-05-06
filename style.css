@@ -130,11 +130,11 @@
 
 
 .second_slaid_main_text{
-    width: 530px;
-    height: 330px;
+    padding: auto
     display: flex;
     line-height: 130%;
     margin: auto;
+    text-align: center;
 }
 
 
