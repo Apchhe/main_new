@@ -132,10 +132,10 @@
 .second_slaid_main_text{
     padding: auto;
     display: flex;
+    font-style: none;
     line-height: 130%;
     margin: auto;
 	text-align: center;
-    font-style: none;
 }
 
 
