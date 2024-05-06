@@ -122,7 +122,7 @@
     height: 90px;
     background-color: #6CC8AC;
     border-radius: 50px;
-    position: relative;
+    position: absolute;
     border: none;
     margin-top: 240px;
 margin-right: 50px;
